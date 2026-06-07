@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-06T18:16:10 IST" name="Suite" finished-at="2026-06-06T18:16:24 IST" duration-ms="14095">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_AccountRegistrationTest.verify_acc_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@1b7cc17c]" name="verify_acc_registration" class="testCases.TC001_AccountRegistrationTest"/>
+        <method signature="TC002_LoginWithValidCreds.verify_validlogin()[pri:0, instance:testCases.TC002_LoginWithValidCreds@5b8dfcc1]" name="verify_validlogin" class="testCases.TC002_LoginWithValidCreds"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC001_AccountRegistrationTest.verify_acc_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@1b7cc17c]" name="verify_acc_registration" class="testCases.TC001_AccountRegistrationTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC001_AccountRegistrationTest.verify_acc_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@1b7cc17c]" name="verify_acc_registration" class="testCases.TC001_AccountRegistrationTest"/>
+        <method signature="TC002_LoginWithValidCreds.verify_validlogin()[pri:0, instance:testCases.TC002_LoginWithValidCreds@5b8dfcc1]" name="verify_validlogin" class="testCases.TC002_LoginWithValidCreds"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2026-06-06T18:16:10 IST" name="Test" finished-at="2026-06-06T18:16:24 IST" duration-ms="14095">
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@1b7cc17c]" started-at="2026-06-06T18:16:10 IST" name="setup" finished-at="2026-06-06T18:16:14 IST" duration-ms="3589" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_acc_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@1b7cc17c]" started-at="2026-06-06T18:16:14 IST" name="verify_acc_registration" finished-at="2026-06-06T18:16:17 IST" duration-ms="3682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_acc_registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@1b7cc17c]" started-at="2026-06-06T18:16:17 IST" name="teardown" finished-at="2026-06-06T18:16:18 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      <class name="testCases.TC002_LoginWithValidCreds">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginWithValidCreds@5b8dfcc1]" started-at="2026-06-06T18:16:18 IST" name="setup" finished-at="2026-06-06T18:16:20 IST" duration-ms="2116" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_validlogin()[pri:0, instance:testCases.TC002_LoginWithValidCreds@5b8dfcc1]" started-at="2026-06-06T18:16:20 IST" name="verify_validlogin" finished-at="2026-06-06T18:16:24 IST" duration-ms="3904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_validlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_LoginWithValidCreds@5b8dfcc1]" started-at="2026-06-06T18:16:24 IST" name="teardown" finished-at="2026-06-06T18:16:24 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002_LoginWithValidCreds -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
