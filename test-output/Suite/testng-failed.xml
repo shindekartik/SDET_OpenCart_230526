@@ -4,29 +4,22 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="Searchitem(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>
-        <include name="Master"/>
+        <include name="Sanity"/>
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
+      <class name="testCases.TC005_SearchItem">
         <methods>
           <include name="teardown"/>
-          <include name="verify_acc_registration"/>
+          <include name="searchproduct"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-      <class name="testCases.TC002_LoginWithValidCreds">
-        <methods>
-          <include name="teardown"/>
-          <include name="verify_validlogin"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC002_LoginWithValidCreds -->
+      </class> <!-- testCases.TC005_SearchItem -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Searchitem(failed) -->
 </suite> <!-- Failed suite [Suite] -->

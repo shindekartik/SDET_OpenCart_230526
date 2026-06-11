@@ -17,6 +17,12 @@ public class MyAccountPage extends BasePage {
 	@FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Logout']")
 	WebElement btnlogoutElement;
 	
+	@FindBy(xpath = "//input[@name=\"search\"]")
+	WebElement searchBoxElement;
+	
+	@FindBy(xpath = "//button[@class=\"btn btn-default btn-lg\"]")
+	WebElement btnsearch;
+	
 	public boolean ismyAccheadingexist() {
 		try {
 		return	myAccountHeadingElement.isDisplayed();
@@ -29,6 +35,17 @@ public class MyAccountPage extends BasePage {
 	
 	public void logout() {
 		btnlogoutElement.click();
+		
+	}
+	
+	public void search(String searchcotext) {
+		searchBoxElement.sendKeys(searchcotext);
+		searchBoxElement.click();
+		
+	}
+	
+	public void btnclicktoserach() {
+		btnsearch.click();
 		
 	}
 

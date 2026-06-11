@@ -225,3 +225,39 @@
 18:16:20.918 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
 18:16:21.211 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
 18:16:24.251 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****
+08:41:46.608 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:16)oggger - **** Starting TC002_LoginWithValidCreds ****
+08:41:46.610 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:22)oggger - **** Clicked on My Account ****
+08:41:46.703 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:25)oggger - **** Clicked on Login button on homepage ****
+08:41:46.959 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
+08:41:47.145 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
+08:41:49.251 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****
+17:21:00.737 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:16)oggger - **** Starting TC002_LoginWithValidCreds ****
+17:21:00.741 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:22)oggger - **** Clicked on My Account ****
+17:21:00.853 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:25)oggger - **** Clicked on Login button on homepage ****
+17:21:01.147 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
+17:21:01.306 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
+17:21:03.386 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****
+18:22:16.126 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:16)oggger - **** Starting TC002_LoginWithValidCreds ****
+18:22:16.126 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:22)oggger - **** Clicked on My Account ****
+18:22:16.203 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:25)oggger - **** Clicked on Login button on homepage ****
+18:22:16.589 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
+18:22:16.746 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
+18:22:18.829 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****
+18:24:17.985 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:16)oggger - **** Starting TC002_LoginWithValidCreds ****
+18:24:17.989 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:22)oggger - **** Clicked on My Account ****
+18:24:18.070 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:25)oggger - **** Clicked on Login button on homepage ****
+18:24:18.365 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
+18:24:18.538 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
+18:24:20.610 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****
+18:40:37.771 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:16)oggger - **** Starting TC002_LoginWithValidCreds ****
+18:40:37.776 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:22)oggger - **** Clicked on My Account ****
+18:40:37.838 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:25)oggger - **** Clicked on Login button on homepage ****
+18:40:38.517 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
+18:40:38.685 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
+18:40:40.752 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****
+18:43:12.084 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:16)oggger - **** Starting TC002_LoginWithValidCreds ****
+18:43:12.089 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:22)oggger - **** Clicked on My Account ****
+18:43:12.195 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:25)oggger - **** Clicked on Login button on homepage ****
+18:43:12.559 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:29)oggger - **** Added user details ****
+18:43:12.710 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:34)oggger - **** Clicked on Login ****
+18:43:14.785 [main] INFO  testCases.TC002_LoginWithValidCreds.verify_validlogin(TC002_LoginWithValidCreds.java:45)oggger - **** TC002 Finished ****

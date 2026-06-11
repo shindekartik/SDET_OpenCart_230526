@@ -10,7 +10,7 @@ public class TC002_LoginWithValidCreds extends BaseClass {
 	
 	
 	
-	@Test(groups = {"Master", "Regression"})
+	@Test(groups = {"Master", "Regression","Sanity"})
 	public void verify_validlogin() throws InterruptedException 
 	{
 		logger.info("**** Starting TC002_LoginWithValidCreds ****");
